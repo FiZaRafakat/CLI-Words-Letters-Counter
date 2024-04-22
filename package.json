@@ -1,6 +1,6 @@
 {
-  "name": "fiza07_word_counter",
-  "version": "1.0.0",
+  "name": "fiza05_word_counter",
+  "version": "1.0.3",
   "description": "A simple word counter with Typescript , inquirer , node-js and chalk for styling.",
   "main": "index.js",
   "type": "module",
